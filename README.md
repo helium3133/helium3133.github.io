@@ -11,3 +11,9 @@ Members:
 | Nayeon | Jeongyeon | Momo | Sana | Jihyo | Mina | Dahyun | Chaeyoung | Tzuyu |
 |--------|-----------|------|------|-------|------|--------|-----------|-------| 
 | Lead Singer | Lead Singer | Sub-rapper and Main Dancer | vocalist | Leader and Main Vocalist | Sub-vocalist and Main Dancer | Vocalist and Lead Rapper | Main Rapper | Lead Dancer, Sub-vocalist, and Visual |
+
+**WATCH THIS VIDEO**
+
+*Talk that Talk (TTT)*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6jqx9kZgPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
