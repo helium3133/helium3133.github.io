@@ -6,9 +6,9 @@ Trina Marie Rubio
 
 Twice is a South Korean girl group formed by JYP Entertainment. The group is composed of nine members: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, and Tzuyu. Twice was formed under the television program Sixteen and debuted on October 20, 2015, with the extended play The Story Begins.
 
-![image](https://user-images.githubusercontent.com/122426680/212238230-bee9663f-f8be-4279-8366-8cec53b930f4.png)
+![image](https://user-images.githubusercontent.com/122426680/212585045-4a45699d-f086-4ca9-a33c-31d86b70cf5f.png)
 
-Members:
+Members and Roles:
 
 | Nayeon | Jeongyeon | Momo | Sana | Jihyo | Mina | Dahyun | Chaeyoung | Tzuyu |
 |--------|-----------|------|------|-------|------|--------|-----------|-------| 
